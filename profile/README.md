@@ -1,12 +1,26 @@
-## Hi there 👋
+# ArabTech Organization
 
-<!--
+Welcome to ArabTech Organization's official repository. ArabTech specializes in e-commerce solutions, providing a robust online store and an efficient dashboard for managing product items and information.
 
-**Here are some ideas to get you started:**
+## Project Description
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Store Site
+Our store site, accessible at [ArabTech](https://www.arabtech.store), is built using the MERN stack with the addition of TypeScript. It offers a seamless shopping experience with a modern and intuitive user interface powered by **Chadcn UI**.
+
+### Dashboard
+The dashboard, accessible at [ArabTech-Dashboard](https://arabtech-dashboard.netlify.app/), is designed to control and manage the store's product items and information. Built using the MERN stack (without TypeScript), it provides a user-friendly interface for administrators, powered by **DaisyUI**.
+
+## Links
+
+| Platform    | Direct Link                          |
+|-------------|--------------------------------------|
+| Store Site  | [ArabTech](https://www.arabtech.store)|
+| Dashboard   | [Dashboard](https://arabtech-dashboard.netlify.app/)|
+
+## Tech Stack
+
+- **Store Site**: MERN (MongoDB, Express, React, Node.js) with TypeScript
+  - UI Library: Chadcn UI
+- **Dashboard**: MERN (MongoDB, Express, React, Node.js)
+  - UI Library: DaisyUI
+
